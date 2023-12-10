@@ -1,0 +1,271 @@
+[
+    {
+        "id": "id-345knvkhn",
+        "title": "HTML",
+        "description": "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It defines the meaning and structure of web content",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png",
+        "chapters": [
+            {
+                "chapter": 1,
+                "title": "Introduction",
+                "description": "Introduction to HTML",
+                "details": "At its heart, HTML is a language made up of elements, which can be applied to pieces of text to give them different meaning in a document (Is it a paragraph? Is it a bulleted list? Is it part of a table?), structure a document into logical sections (Does it have a header? Three columns of content? A navigation menu?), and embed content such as images and videos into a page. This module will introduce the first two of these and introduce fundamental concepts and syntax you need to know to understand HTML.",
+                "video": "https://www.youtube.com/embed/6mbwJ2xhgzM?si=OQCdzCiBUuL7LoNN"
+            },
+            {
+                "chapter": 2,
+                "title": "Structure of webpages",
+                "description": "Basic structure of webpages",
+                "details": " This article looks into how to plan a basic website structure, and write the HTML to represent this structure. ",
+                "video": "https://www.youtube.com/embed/IA8JWGP13dI?si=khDOigdq7BsSU1wp"
+            },
+            {
+                "chapter": 3,
+                "title": "Tags",
+                "description": "Title,Script, Link & Meta tags",
+                "details": "What is title, Scripts & Links",
+                "video": "https://www.youtube.com/embed/EZCc_4abdcE?si=TzP_VtpCNojEaPdh"
+            },
+            {
+                "chapter": 4,
+                "title": "List and Table",
+                "description": "Lists and Tables",
+                "details": "Tables are used to display the tabular data. A lot of tags are used to do this. All table data is included inside the <table> tags. A table (with the <tr>-tag) divides the table into rows and divides the data cells in each row (with the <td>-tag). <tr> represents the table row <td> is used for representing a cell's content.",
+                "video": "https://www.youtube.com/embed/N69xumSjg5Q?si=vwcre6ddC3BqGG_2"
+            },
+            {
+                "chapter": 5,
+                "title": "Forms in HTML",
+                "description": "What is Form?",
+                "details": "The HTML form tag is used to create an HTML form for user input. It can contain one or more of the following form elements: input, textarea, select, button, submit, reset, and more.",
+                "video": "https://www.youtube.com/embed/KqJikDzb3l4?si=TMalOPtGlqteX4eX"
+            }
+        ]
+    },
+    {
+        "id": "id-345knvkh0",
+        "title": "CSS",
+        "description": "CSS is a shorthand for Cascading Style Sheets. CSS describes how the HTML elements are to be displayed. CSS is used to control the layout of multiple web pages at once. Includes the addition of visuals such as colour, fonts, layouts, etc.",
+        "img": "https://tse3.mm.bing.net/th?id=OIP.rc2pj6GkRD9FrcoFMYeWWwHaEL&pid=Api&P=0&h=220",
+        "chapters": [
+            {
+                "chapter": 1,
+                "title": "Introduction",
+                "description": "What is CSS?",
+                "details": "Cascading Style Sheets ( CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML (including XML dialects such as SVG, MathML or XHTML ).",
+                "video": "https://www.youtube.com/embed/ua24185-rcw?si=sTDaTKUUDOx1HtUU"
+            },
+            {
+                "chapter": 2,
+                "title": "Type of CSS",
+                "description": "How Many types of CSS?",
+                "details": "There are three types of CSS which are given below: Inline CSS Internal or Embedded CSS External CSS",
+                "video": "https://www.youtube.com/embed/ArUL-He_AN0?si=O9EH7CoE_pN_dPu0"
+            },
+            {
+                "chapter": 3,
+                "title": "Selectros",
+                "description": "What is Selectors?",
+                "details": "CSS selectors are used to find (or select) the HTML elements you want to style. ",
+                "video": "https://www.youtube.com/embed/ArUL-He_AN0?si=KYQT4iiTJ9wO1FWv"
+            },
+            {
+                "chapter": 4,
+                "title": "CSS Box Model",
+                "description": "What is padding and margin in Box Model?",
+                "details": "Padding represents the amount of inner space an element has, while the margin is whitespace available surrounding an element. It’s not possible to set padding to auto padding. ",
+                "video": "https://www.youtube.com/embed/oPPym7UaSIo?si=pGfUJsm8xxm9MX8l"
+            }
+        ]
+    },
+    {
+        "id": "id-345knvkhk",
+        "title": "JavaScript",
+        "description": "JavaScript is a scripting or programming language that allows you to implement complex features on web pages",
+        "img": "https://tse3.mm.bing.net/th?id=OIP.25vSXGJsvi1u3JIjcfvfNQHaEo&pid=Api&P=0&h=220",
+        "chapters": [
+            {
+                "chapter": 1,
+                "title": "Introduction",
+                "description": "Introduction to JS",
+                "details": "JavScrip is a High Level, Interpreted JIT Compiled Multi-Paradigm Prototyped Based Synchronous, Single Threaded Dynamic Language",
+                "video": "https://www.youtube.com/embed/ER9SspLe4Hg?si=hC-3ND5DxGlUWRTv"
+            },
+            {
+                "chapter": 2,
+                "title": "Fundamental of Js",
+                "description": "Variables in JavaScript",
+                "details": "A variable is named container that store data or values in memory that can be accessed and manipulated later in the program",
+                "video": "https://www.youtube.com/embed/Q4p8vRQX8uY?si=j4b1Xgbt0-4VRoba"
+            },
+            {
+                "chapter": 3,
+                "title": "keywords",
+                "description": "let, const, var in JavaScript",
+                "details": "let and const are two new methods for declaring variables in JavaScript that were added to ES6. The var keyword was the sole way to declare avariable prior to this introduction.",
+                "video": "https://www.youtube.com/embed/Icev9Oxf0WA?si=ekeSQnRQqQtpzHqm"
+            },
+            {
+                "chapter": 4,
+                "title": "Datatypes in JavaScript",
+                "description": "Primitives and Objects",
+                "details": "A data type is a classification of the type of data that can be stored and manipulated within a program.Each data type has its own characteristics and methods for manipulation.",
+                "video": "https://www.youtube.com/embed/qpU3WIqRz9I?si=i3lOQ1ftyZQaT9vk"
+            },
+            {
+                "chapter": 5,
+                "title": "Loops ",
+                "description": "Loops in Js",
+                "details": "Loops are used to continually run a piece of code until a certain condition is fulfilled. There are three types of loops in JavaScript: for, while, and do-while.",
+                "video": "https://www.youtube.com/embed/7xgJmIOG8GE?si=1vCCVtIVI5jpNiGg"
+            },
+            {
+                "chapter": 6,
+                "title": "Functions",
+                "description": "Functions in Js",
+                "details": "A function in JavaScript is a block of code that performs a specific task. It takes inputs (parameters) and returns a value or performs an action",
+                "video": "https://www.youtube.com/embed/a_gwOwkbhZ0?si=zO2gp4J-MKEOVNgx"
+            },
+            {
+                "chapter": 7,
+                "title": "Arrays in Js",
+                "description": "What are arrays?",
+                "details": "In JavaScript, an array is a collection of data values of any data type. Arrays are a fundamental data structure and are used to store and manipulate data in man JavaScript programs.",
+                "video": "https://www.youtube.com/embed/a_Bz5ciBHQ0?si=aDfLsx6GsJdXikZU"
+            }
+        ]
+    },
+    {
+        "id": "id-8827gdf0c",
+        "title": "React",
+        "description": "React is a JavaScript library for building user interfaces.",
+        "img": "https://cdn-icons-png.flaticon.com/512/3334/3334886.png",
+        "chapters": [
+            {
+                "chapter": 1,
+                "title": "Introduction",
+                "description": "Introduction to React",
+                "details": "React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications. However, React is only concerned with rendering data to the DOM, and so creating React applications usually requires the use of additional libraries for state management and routing. Redux and React Router are respective examples of such libraries.",
+                "video": "https://www.youtube.com/embed/FZ0cG47msEk"
+            },
+            {
+                "chapter": 2,
+                "title": "JSX",
+                "description": "Learning JSX",
+                "details": "JSX is a syntax extension to JavaScript. It is similar to a template language, but it has full power of JavaScript. JSX gets compiled to React.createElement() calls which return plain JavaScript objects called 'React elements'. These objects are then used to build the DOM.",
+                "video": "https://www.youtube.com/embed/7HSd1sk07uU?list=PLb0IAmt7-GS3fZ46IGFirdqKTIxlws7e0"
+            },
+            {
+                "chapter": 3,
+                "title": "Components",
+                "description": "What are Components?",
+                "details": "Components let you split the UI into independent, reusable pieces, and think about each piece in isolation. Conceptually, components are like JavaScript functions. They accept arbitrary inputs (called 'props') and return React elements describing what should appear on the screen.",
+                "video": "https://www.youtube.com/embed/MGuKhcnrqGA?list=PLb0IAmt7-GS0M8Q95RIc2lOM6nc77q1IY"
+            },
+            {
+                "chapter": 4,
+                "title": "Props",
+                "description": "Passing the data through Props",
+                "details": "Props are a way of passing data from parent to child. They are immutable and are passed from parent to child via attributes."
+            },
+            {
+                "chapter": 5,
+                "title": "State",
+                "description": "Single Source of Truth - State",
+                "details": "State is similar to props, but it is private and fully controlled by the component."
+            },
+            {
+                "chapter": 6,
+                "title": "Lifecycle",
+                "description": "Methods involved in Component Lifecycle",
+                "details": "Each component has several “lifecycle methods” that you can override to run code at particular times in the process. Methods prefixed with will are called right before something happens, and methods prefixed with did are called right after something happens."
+            },
+            {
+                "chapter": 7,
+                "title": "Handling Events",
+                "description": "Handling Events",
+                "details": "Handling events with React elements is very similar to handling events on DOM elements. There are some syntax differences:"
+            },
+            {
+                "chapter": 8,
+                "title": "Conditional Rendering",
+                "description": "Conditional Rendering",
+                "details": "In React, you can create distinct components that encapsulate behavior you need. Then, you can render only some of them, depending on the state of your application."
+            },
+            {
+                "chapter": 9,
+                "title": "Lists and Keys",
+                "description": "Lists and Keys",
+                "details": "You can build collections of elements and include them in JSX using curly braces {}."
+            }
+        ]
+    },
+    {
+        "id": "id-sdffi89nf",
+        "title": "SQL",
+        "description": "SQL is a standard language for storing, manipulating and retrieving data in databases.",
+        "img": "https://cdn-icons-png.flaticon.com/512/8452/8452873.png",
+        "chapters": [
+            {
+                "chapter": 1,
+                "title": "Introduction",
+                "description": "Introduction to SQL",
+                "details": "SQL is a standard language for storing, manipulating and retrieving data in databases."
+            },
+            {
+                "chapter": 2,
+                "title": "SQL Syntax",
+                "description": "SQL Syntax",
+                "details": "SQL is a standard language for storing, manipulating and retrieving data in databases."
+            },
+            {
+                "chapter": 3,
+                "title": "SQL SELECT Statement",
+                "description": "SQL SELECT Statement",
+                "details": "The SELECT statement is used to select data from a database."
+            },
+            {
+                "chapter": 4,
+                "title": "SQL SELECT DISTINCT Statement",
+                "description": "SQL SELECT DISTINCT Statement",
+                "details": "The SELECT DISTINCT statement is used to return only distinct (different) values."
+            },
+            {
+                "chapter": 5,
+                "title": "SQL WHERE Clause",
+                "description": "SQL WHERE Clause",
+                "details": "The WHERE clause is used to filter records."
+            },
+            {
+                "chapter": 6,
+                "title": "SQL AND, OR and NOT Operators",
+                "description": "SQL AND, OR and NOT Operators",
+                "details": "The AND, OR, and NOT operators are used to filter records based on more than one condition."
+            },
+            {
+                "chapter": 7,
+                "title": "SQL ORDER BY Keyword",
+                "description": "SQL ORDER BY Keyword",
+                "details": "The ORDER BY keyword is used to sort the result-set in ascending or descending order."
+            },
+            {
+                "chapter": 8,
+                "title": "SQL INSERT INTO Statement",
+                "description": "SQL INSERT INTO Statement",
+                "details": "The INSERT INTO statement is used to insert new records in a table."
+            },
+            {
+                "chapter": 9,
+                "title": "SQL UPDATE Statement",
+                "description": "SQL UPDATE Statement",
+                "details": "The UPDATE statement is used to modify the existing records in a table."
+            },
+            {
+                "chapter": 10,
+                "title": "SQL DELETE Statement",
+                "description": "SQL DELETE Statement",
+                "details": "The DELETE statement is used to delete existing records in a table."
+            }
+        ]
+    }
+]
