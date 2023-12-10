@@ -1,5 +1,5 @@
 # E-lEARNING-APP
-This is an e-learning-app a user can learn different of skills which have been mentioned in the app,There is different kinds of courses including different types of topisc with videos.
+This is an e-learning-app a user can learn different types of skills which have been mentioned in the app.There is different kinds of courses including different types of topisc with videos.
 
 ## Available Scripts
 
