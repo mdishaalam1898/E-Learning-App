@@ -1,6 +1,8 @@
 # E-LEARNING-APP
 This is an e-learning-app a user can learn different types of skills which have been mentioned in the app.There is different kinds of courses including different types of topisc with videos.
 
+[Go LIVE TO WEBSITE](https://e-learning-app-ac586c.netlify.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
