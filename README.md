@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# E-lEARNING-APP
+This is an e-learning-app a user can learn different of skills which have been mentioned in the app,There is different kinds of courses including different types of topisc with videos.
 
 ## Available Scripts
 
