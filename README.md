@@ -3,6 +3,7 @@ This is an e-learning-app a user can learn different types of skills which have 
 
 [Go LIVE TO WEBSITE](https://e-learning-app-ac586c.netlify.app/)
 
+
 ## Available Scripts
 
 In the project directory, you can run:
