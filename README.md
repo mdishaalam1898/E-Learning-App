@@ -7,9 +7,9 @@ This is an e-learning-app a user can learn different types of skills which have 
 ## Available Scripts
 1.Get the code on your machine.<br/>
 2.Navigate to the root directory of the code.<br/>
-3.open command terminal.
-4.Run command "npm install" to get all required dependencies.
-5.To run the code run the command "npm start" in your terminal.
+3.open command terminal.<br/>
+4.Run command "npm install" to get all required dependencies.<br/>
+5.To run the code run the command "npm start" in your terminal.<br/>
 6.User can see the output by opening following link http://localhost:3000/ on there browser.
 
 ### `npm start`
