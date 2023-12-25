@@ -21,12 +21,12 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### Tools and Libraries.
-1.HTML
-2.CSS
-3.JS
-4.RecatJs
-5.React-router-dom
-6.React-hooks
+1.HTML<br/>
+2.CSS<br/>
+3.JS<br/>
+4.RecatJs<br/>
+5.React-router-dom<br/>
+6.React-hooks<br/>
 
 
 
