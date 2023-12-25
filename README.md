@@ -5,8 +5,8 @@ This is an e-learning-app a user can learn different types of skills which have 
 
 
 ## Available Scripts
-1.Get the code on your machine.
-2.Navigate to the root directory of the code.
+1.Get the code on your machine.<br/>
+2.Navigate to the root directory of the code.<br/>
 3.open command terminal.
 4.Run command "npm install" to get all required dependencies.
 5.To run the code run the command "npm start" in your terminal.
