@@ -4,7 +4,7 @@ This is an e-learning-app a user can learn different types of skills which have 
 [Go LIVE TO WEBSITE](https://e-learning-app-ac586c.netlify.app/)
 
 
-## Available Scripts
+## Installation and running code.
 1.Get the code on your machine.<br/>
 2.Navigate to the root directory of the code.<br/>
 3.open command terminal.<br/>
